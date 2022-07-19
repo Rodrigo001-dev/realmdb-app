@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import { useNavigation } from '@react-navigation/native';
 
+import { getRealm } from '../../databases/realm';
+
 import { Container, Header, Title, Form } from './styles';
 
 import { Input } from '../../components/Input';
@@ -19,6 +21,10 @@ export function NewOrder() {
   function handleBack() {
     navigation.goBack();
   }
+
+  function handleNewOrderRegister() {
+
+  };
 
   return (
     <Container>
