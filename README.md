@@ -1,18 +1,10 @@
 ## :page_with_curl: Projeto
 
-<LINKEDIN>
-Como já avia mensionado no post de WatermelonDB o conceito de offline-first é que o seu app vai estar 100% funcional independente da conexão de internet.
-</LINKEDIN>
-
 Utilizando o RealmDB com o conceito de banco de dados offline.
+
+
 [Veja mais do RealmDB aqui!](https://realm.io/)
 
-<LINKEDIN>
-Mas qual é melhor Watermelon ou Realm?
-
-A resposta para essa pergunta é nenhum dos dois, não existe banco de dados melhor,
-ou ferramenta melhor, a escolha do banco de dados ou qualquer ferramenta vai dependar da sua aplicação e principalmente da sua experiência com a ferramenta.
-</LINKEDIN>
 
 ## 🚀 Tecnologias/Bibliotecas utilizadas
   
